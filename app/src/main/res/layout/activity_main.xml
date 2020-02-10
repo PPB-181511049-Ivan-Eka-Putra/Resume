@@ -48,6 +48,15 @@
             android:textSize="12sp"
             android:textStyle="bold"
             android:text="Bekasi, Indonesia"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="28dp"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="Contact Information"/>
     </LinearLayout>
 
 </LinearLayout>
