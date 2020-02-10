@@ -5,4 +5,6 @@
     <string name="location">Bekasi, Indonesia</string>
     <string name="role">Software Engineer - Backend Intern</string>
     <string name="full_name">Ivan Eka Putra</string>
+    <string name="email_address">ivanekaputra24@gmail.com</string>
+    <string name="phone_number_label">PHONE NUMBER</string>
 </resources>

@@ -66,6 +66,14 @@
             android:textSize="12sp"
             android:textStyle="bold"
             android:text="@string/email_address_label"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:text="@string/email_address"/>
     </LinearLayout>
 
 </LinearLayout>
