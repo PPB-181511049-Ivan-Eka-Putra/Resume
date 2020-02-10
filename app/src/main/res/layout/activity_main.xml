@@ -28,7 +28,7 @@
             android:textColor="@color/black"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:text="Ivan Eka Putra"/>
+            android:text="@string/full_name"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -37,7 +37,7 @@
             android:gravity="center"
             android:textColor="@color/black"
             android:textSize="14sp"
-            android:text="Software Engineer - Backend Intern" />
+            android:text="@string/role" />
 
         <TextView
             android:layout_width="match_parent"
@@ -47,7 +47,7 @@
             android:textColor="@color/colorAccent"
             android:textSize="12sp"
             android:textStyle="bold"
-            android:text="Bekasi, Indonesia"/>
+            android:text="@string/location"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -56,7 +56,16 @@
             android:textColor="@color/black"
             android:textSize="15sp"
             android:textStyle="bold"
-            android:text="Contact Information"/>
+            android:text="@string/contact_information_label"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="24dp"
+            android:textColor="@color/colorAccent"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:text="@string/email_address_label"/>
     </LinearLayout>
 
 </LinearLayout>
