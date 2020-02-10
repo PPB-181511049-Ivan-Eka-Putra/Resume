@@ -29,6 +29,15 @@
             android:textSize="16sp"
             android:textStyle="bold"
             android:text="Ivan Eka Putra"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:text="Software Engineer - Backend Intern"/>
     </LinearLayout>
 
 </LinearLayout>
