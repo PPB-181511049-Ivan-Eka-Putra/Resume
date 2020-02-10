@@ -2,10 +2,11 @@
     <string name="app_name">PPB 181511049 Ivan Eka Putra Resume</string>
     <string name="email_address_label">EMAIL ADDRESS</string>
     <string name="contact_information_label">Contact Information</string>
-    <string name="location">Bekasi, Indonesia</string>
     <string name="role">Software Engineer - Backend Intern</string>
     <string name="full_name">Ivan Eka Putra</string>
     <string name="email_address">ivanekaputra24@gmail.com</string>
     <string name="phone_number_label">PHONE NUMBER</string>
     <string name="phone_number">+6285889769716</string>
+    <string name="city">Bekasi, Indonesia</string>
+    <string name="location_label">LOCATION</string>
 </resources>

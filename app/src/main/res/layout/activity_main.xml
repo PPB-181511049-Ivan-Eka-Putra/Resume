@@ -47,7 +47,7 @@
             android:textColor="@color/colorAccent"
             android:textSize="12sp"
             android:textStyle="bold"
-            android:text="@string/location"/>
+            android:text="@string/city"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -91,6 +91,15 @@
             android:textColor="@color/black"
             android:textSize="12sp"
             android:text="@string/phone_number"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="24dp"
+            android:textColor="@color/colorAccent"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:text="@string/location_label"/>
     </LinearLayout>
 
 </LinearLayout>
